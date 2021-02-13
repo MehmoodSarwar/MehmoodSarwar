@@ -1,16 +1,35 @@
 ### Hi there 👋, I am Mehmood Sarwar
+#######I am Artificial Intelligence enthusiast and passionate about Data.
 
-<!--
-**MehmoodSarwar/MehmoodSarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have grasped the following along my learning journey;
 
-Here are some ideas to get you started:
+**Machine Learning Algorithms:**
+Linear Regression
+Logistic Regression / Classification
+Support Vector Machine (SVM)
+Decision Tree
+Naive Bayes
+k-Nearest Neighbor (kNN)
+K-Means
+Random Forest
+Anomaly Detection
+Recommender System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Deep Learning:**
+Neural Networks
+Convolutional Neural Networks
+Recurrent Neural Networks
+Long Short Term Memory (LSTM)
+
+**Python:**
+Object Oriented Programming (OOP)
+
+**Python Libraries:**
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+
+**Framework:**
+TensorFlow
+Keras
