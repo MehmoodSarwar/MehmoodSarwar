@@ -16,20 +16,20 @@
 * Recommender System
 
 **Deep Learning:**
-Neural Networks
-Convolutional Neural Networks
-Recurrent Neural Networks
-Long Short Term Memory (LSTM)
+* Neural Networks
+* Convolutional Neural Networks
+* Recurrent Neural Networks
+* Long Short Term Memory (LSTM)
 
 **Python:**
-Object Oriented Programming (OOP)
+* Object Oriented Programming (OOP)
 
 **Python Libraries:**
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
 
 **Framework:**
-TensorFlow
-Keras
+* TensorFlow
+* Keras
