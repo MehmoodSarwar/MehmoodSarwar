@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Mehmood Sarwar
-###### I am Artificial Intelligence enthusiast and passionate about Data.
+## I am Artificial Intelligence enthusiast and passionate about Data.
 
 I have grasped the following along my learning journey;
 
