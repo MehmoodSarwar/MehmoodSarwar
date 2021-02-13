@@ -1,7 +1,7 @@
-### Hi there 👋, I am Mehmood Sarwar
+# Hi there 👋, I am Mehmood Sarwar
 ## I am Artificial Intelligence enthusiast and passionate about Data.
 
-I have grasped the following along my learning journey;
+### I have grasped the following along my learning journey;
 
 **Machine Learning Algorithms:**
 -Linear Regression
