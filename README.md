@@ -4,16 +4,16 @@
 ### I have grasped the following along my learning journey;
 
 **Machine Learning Algorithms:**
-*Linear Regression
-*Logistic Regression / Classification
-*Support Vector Machine (SVM)
-*Decision Tree
-*Naive Bayes
-*k-Nearest Neighbor (kNN)
-*K-Means
-*Random Forest
-*Anomaly Detection
-*Recommender System
+* Linear Regression
+* Logistic Regression / Classification
+* Support Vector Machine (SVM)
+* Decision Tree
+* Naive Bayes
+* k-Nearest Neighbor (kNN)
+* K-Means
+* Random Forest
+* Anomaly Detection
+* Recommender System
 
 **Deep Learning:**
 Neural Networks
